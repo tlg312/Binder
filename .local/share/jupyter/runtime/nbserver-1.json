@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/tlg312-binder-4exqcc1v/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 1,
+  "port": 8888,
+  "secure": false,
+  "token": "CC64xv5TQTSrVbd0wN4VQA",
+  "url": "http://0.0.0.0:8888/user/tlg312-binder-4exqcc1v/"
+}
